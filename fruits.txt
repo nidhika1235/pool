@@ -1,5 +1,3 @@
 Apple
 Banana
 Grapes
-Oranges
-Pineapple
